@@ -196,7 +196,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  auto_html (~> 1.6.4)
+  auto_html (~> 1.6)
   byebug
   coffee-rails (~> 4.2)
   devise
